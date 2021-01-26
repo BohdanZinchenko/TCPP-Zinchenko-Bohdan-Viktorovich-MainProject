@@ -7,6 +7,7 @@ namespace Zinchenko_Bohdan_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub");
+            Console.WriteLine("Hello Alfa");
         }
     }
 }
