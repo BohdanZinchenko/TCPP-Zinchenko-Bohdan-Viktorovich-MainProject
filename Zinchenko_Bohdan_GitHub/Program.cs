@@ -6,6 +6,7 @@ namespace Zinchenko_Bohdan_GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("New changes");
             Console.WriteLine("Hello GitHub");
         }
     }
