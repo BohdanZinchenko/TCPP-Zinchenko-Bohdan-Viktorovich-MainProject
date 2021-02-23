@@ -12,6 +12,7 @@ namespace Zinchenko_Bohdan_GitHub
             //Console.WriteLine("Hello Alfa_Second_time");
             //new 
             Console.WriteLine("tryToCheckAlfa");
+            //fqewfqwefqwfeqw
 
         }
     }
